@@ -200,6 +200,3 @@ else:
 a_match(total_overs)
 
 # output part
-
-
-
